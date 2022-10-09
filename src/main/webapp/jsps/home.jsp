@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
+<h2 align="center"> We are supporting the Ebay Black Friday Project 29.
+	Landmark Technologies is an international software development company. 
 	Nuzah is in Class29 which will run from July 17, 2022.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
